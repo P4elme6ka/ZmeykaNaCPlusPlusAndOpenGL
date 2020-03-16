@@ -1,0 +1,18 @@
+﻿  Source.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(130): warning C4005: APIENTRY: изменение макроопределения
+  c:\users\xiaomi pro\source\repos\opengl_start\include\glfw\glfw3.h(123): note: см. предыдущее определение "APIENTRY"
+c:\users\xiaomi pro\source\repos\opengl_start\opengl_start\source.cpp(24): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaomi pro\source\repos\opengl_start\opengl_start\source.cpp(25): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaomi pro\source\repos\opengl_start\opengl_start\source.cpp(26): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaomi pro\source\repos\opengl_start\opengl_start\source.cpp(27): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaomi pro\source\repos\opengl_start\opengl_start\source.cpp(36): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaomi pro\source\repos\opengl_start\opengl_start\source.cpp(37): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaomi pro\source\repos\opengl_start\opengl_start\source.cpp(38): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaomi pro\source\repos\opengl_start\opengl_start\source.cpp(39): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+c:\users\xiaomi pro\source\repos\opengl_start\opengl_start\source.cpp(297): warning C4715: mainloop: значение возвращается не при всех путях выполнения
+  34 of 46 functions (73.9%) were compiled, the rest were copied from previous compilation.
+    28 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  OpenGl_Start.vcxproj -> C:\Users\Xiaomi Pro\source\repos\OpenGl_Start\Release\OpenGl_Start.exe
